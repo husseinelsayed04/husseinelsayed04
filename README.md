@@ -1,12 +1,17 @@
 <div align="center">
 
-# Hussein ElSayed
-**Software Engineer | Mobile Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3c72,2a5298,2980b9,6dd5ed&height=250&section=header&text=Hussein%20ElSayed&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Mobile%20Developer&descSize=25&descAlignY=75" width="100%" alt="Hussein ElSayed Banner">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/hussein-elsayed-2914b4334)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainelsayed04@gmail.com)
+
+<br><br>
 
 *Building modern Android and cross-platform applications. Passionate about clean code, user-friendly experiences, and continuous learning.*
+
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
@@ -27,5 +32,6 @@ specialty:
   - MVVM Design Pattern & SOLID Principles
   - Local Storage (Room/SQLite) & BaaS (Firebase)
   - Jetpack Compose (Currently Exploring)
+
 
 
