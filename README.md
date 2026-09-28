@@ -27,6 +27,7 @@ My focus is on building well-structured applications and continuously improving 
 
 > Most of my learning happens by building — I take an idea, turn it into a real project, and learn by solving problems along the way.
 
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
