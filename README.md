@@ -19,19 +19,22 @@ I enjoy building practical applications and turning ideas into simple, user-frie
 
 ## 🛠 Tech Stack & Tools
 
-### Programming & Software Engineering
+<div align="center">
 
 <img src="https://img.shields.io/badge/KOTLIN-2A5298?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/JAVA-1E3C72?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/PYTHON-2980B9?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C%2B%2B-1E3C72?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+
+<br>
+
 <img src="https://img.shields.io/badge/OOP-2A5298?style=for-the-badge" alt="OOP">
 <img src="https://img.shields.io/badge/SOLID-2980B9?style=for-the-badge" alt="SOLID">
 <img src="https://img.shields.io/badge/DESIGN%20PATTERNS-1E3C72?style=for-the-badge" alt="Design Patterns">
 <img src="https://img.shields.io/badge/DATA%20STRUCTURES-2A5298?style=for-the-badge" alt="Data Structures">
 <img src="https://img.shields.io/badge/ALGORITHMS-2980B9?style=for-the-badge" alt="Algorithms">
 
-### Android Development
+<br>
 
 <img src="https://img.shields.io/badge/ANDROID%20SDK-2A5298?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
 <img src="https://img.shields.io/badge/ANDROID%20STUDIO-1E3C72?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
@@ -40,9 +43,8 @@ I enjoy building practical applications and turning ideas into simple, user-frie
 <img src="https://img.shields.io/badge/ROOM-1E3C72?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
 <img src="https://img.shields.io/badge/SQLITE-2980B9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/FIREBASE-2A5298?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-<img src="https://img.shields.io/badge/REST%20API-1E3C72?style=for-the-badge" alt="REST API">
 
-### UI/UX Design
+<br>
 
 <img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/UI%20DESIGN-2980B9?style=for-the-badge" alt="UI Design">
@@ -50,19 +52,10 @@ I enjoy building practical applications and turning ideas into simple, user-frie
 <img src="https://img.shields.io/badge/WIREFRAMING-2A5298?style=for-the-badge" alt="Wireframing">
 <img src="https://img.shields.io/badge/PROTOTYPING-2980B9?style=for-the-badge" alt="Prototyping">
 
-### Tools
+<br>
 
 <img src="https://img.shields.io/badge/GIT-1E3C72?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GITHUB-2A5298?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/POSTMAN-2980B9?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 
-## 📂 Projects
-
-* 📚 **Library Management System**
-* ⚽ **Football Store Android Application**
-* 🎨 **SCENTIFY – AI-Powered Perfume App**
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/EMAIL-2A5298?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
+</div>
