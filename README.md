@@ -37,9 +37,6 @@ My focus is on building well-structured applications and continuously improving 
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
 <img src="https://img.shields.io/badge/ANDROID_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
-<img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-
-
 
 ### 🏗️ Software Engineering
 
@@ -64,7 +61,6 @@ My focus is on building well-structured applications and continuously improving 
 <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 </div>
