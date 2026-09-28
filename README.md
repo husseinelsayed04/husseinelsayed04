@@ -4,8 +4,8 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-2914b4334)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b)
+[![Email](https://img.shields.io/badge/EMAIL-2A5298?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
 
 <br><br>
 
@@ -55,30 +55,84 @@ currently_learning:
 
 ### 💻 Programming & Software Engineering
 
-<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/KOTLIN-2A5298?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/JAVA-1E3C72?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/PYTHON-2980B9?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-1E3C72?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" alt="OOP">
-<img src="https://img.shields.io/badge/SOLID-333333?style=for-the-badge" alt="SOLID">
-<img src="https://img.shields.io/badge/DESIGN%20PATTERNS-333333?style=for-the-badge" alt="Design Patterns">
-<img src="https://img.shields.io/badge/DATA%20STRUCTURES-333333?style=for-the-badge" alt="Data Structures">
-<img src="https://img.shields.io/badge/ALGORITHMS-333333?style=for-the-badge" alt="Algorithms">
+<img src="https://img.shields.io/badge/OOP-2A5298?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/SOLID-2980B9?style=for-the-badge" alt="SOLID">
+<img src="https://img.shields.io/badge/DESIGN%20PATTERNS-1E3C72?style=for-the-badge" alt="Design Patterns">
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-2A5298?style=for-the-badge" alt="Data Structures">
+<img src="https://img.shields.io/badge/ALGORITHMS-2980B9?style=for-the-badge" alt="Algorithms">
 
 <br><br>
 
 ### 📱 Android Development
 
-<img src="https://img.shields.io/badge/ANDROID%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
-<img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-<img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge" alt="MVVM">
+<img src="https://img.shields.io/badge/ANDROID%20SDK-2A5298?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
+<img src="https://img.shields.io/badge/XML-2980B9?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+<img src="https://img.shields.io/badge/ANDROID%20STUDIO-1E3C72?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<img src="https://img.shields.io/badge/MVVM-2A5298?style=for-the-badge" alt="MVVM">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ROOM-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/FI
+<img src="https://img.shields.io/badge/ROOM-1E3C72?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
+<img src="https://img.shields.io/badge/SQLITE-2980B9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/FIREBASE-2A5298?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+
+<br><br>
+
+### 🔧 Tools & Technologies
+
+<img src="https://img.shields.io/badge/GIT-1E3C72?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GITHUB-2A5298?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/POSTMAN-2980B9?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
+</div>
+
+## 🚀 What I'm Working On
+
+* Building Android applications with **Kotlin**
+* Strengthening my **Software Engineering** fundamentals
+* Practicing **Data Structures, Algorithms & Problem Solving**
+* Applying **OOP, SOLID Principles & Design Patterns**
+* Improving my understanding of **Android Architecture and Clean Code**
+* Designing and implementing user-friendly mobile interfaces
+
+## 📂 Projects
+
+Some of my academic and personal projects include:
+
+* 📚 **Library Management System**
+* 🏦 **Bank Management System**
+* 🏨 **Hotel Reservation Management System**
+* 🏋️ **Gym Management System**
+* 🏥 **Hospital Management System**
+* ⚽ **Football Store Android Application**
+
+## 🎨 UI/UX
+
+Alongside software development, I explore **UI/UX Design** and use Figma to design and prototype mobile applications.
+
+My design work focuses on:
+
+* User-friendly interfaces
+* Mobile-first design
+* Design systems & consistency
+* Wireframing and prototyping
+* Turning UI designs into Android interfaces
+
+<br>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b)
+[![Email](https://img.shields.io/badge/Email-2A5298?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
+
+</div>
