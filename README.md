@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3c72,2a5298,2980b9,6dd5ed&height=250&section=header&text=Hussein%20ElSayed&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Mobile%20Developer&descSize=25&descAlignY=75" width="100%" alt="Hussein ElSayed Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2980b9&height=250&section=header&text=Hussein%20ElSayed&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Mobile%20Developer&descSize=25&descAlignY=75" width="100%" alt="Hussein ElSayed Banner">
 
 <br><br>
 
