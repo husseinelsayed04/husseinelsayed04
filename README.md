@@ -9,7 +9,7 @@
 
 <br><br>
 
-*Building modern Android applications with a focus on clean code, user-friendly experiences, UI/UX design, and continuous learning.*
+*Building modern Android applications with a focus on practical solutions, intuitive experiences, and continuous learning.*
 
 <br>
 
@@ -17,62 +17,58 @@
 
 </div>
 
-## 🧠 Mobile Engineering Identity
+## 👨‍💻 About Me
 
-```yaml
-role: Software Engineer / Mobile Developer
-focus:
-  - Native Android Development
-  - UI/UX Design & Implementation
-  - Problem Solving
-  - Clean Code & Maintainability
-specialty:
-  - Kotlin & Java Ecosystems
-  - Flutter & Dart
-  - OOP & SOLID Principles
-  - MVVM Architecture
-  - Local Storage (Room/SQLite)
-  - Firebase
-  - Figma & UI/UX Design
-```
+Third-year Software Engineering student at the Egyptian Russian University (ERU).
 
-## 🛠️ Modern Mobile Stack
+I build modern Android applications using **Kotlin**, **Java**, and **Android Studio**, while exploring **UI/UX design** and turning ideas into practical digital experiences.
+
+My focus is on building well-structured applications and continuously improving my problem-solving and software development skills.
+
+> Most of my learning happens by building — I take an idea, turn it into a real project, and learn by solving problems along the way.
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Native Android
+### 📱 Android Development
 
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
 <img src="https://img.shields.io/badge/ANDROID_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
+<img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 
-<br>
+<br><br>
 
-### Cross-Platform & UI
+### 🎨 UI/UX Design
 
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
-<img src="https://img.shields.io/badge/Figma-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-1E3C72?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
 
-<br>
+<br><br>
 
-### Data & Architecture
+### 🏗️ Software Engineering
 
-<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-<img src="https://img.shields.io/badge/ROOM_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB">
+<img src="https://img.shields.io/badge/OOP-1E3C72?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/SOLID-2A5298?style=for-the-badge" alt="SOLID">
+<img src="https://img.shields.io/badge/MVVM-2980B9?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
+<img src="https://img.shields.io/badge/DATA_STRUCTURES-1E3C72?style=for-the-badge" alt="Data Structures">
+
+<br><br>
+
+### 🗄️ Database & Backend
+
+<img src="https://img.shields.io/badge/ROOM_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
 <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/MVVM-2A5298?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
-<img src="https://img.shields.io/badge/SOLID-1E3C72?style=for-the-badge" alt="SOLID">
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 
-<br>
+<br><br>
 
-### Tools & Integration
+### 🔧 Tools
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
 
 </div>
