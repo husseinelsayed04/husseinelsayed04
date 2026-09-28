@@ -52,8 +52,12 @@ My focus is on building well-structured applications and continuously improving 
 
 <img src="https://img.shields.io/badge/OOP-1E3C72?style=for-the-badge" alt="OOP">
 <img src="https://img.shields.io/badge/SOLID-2A5298?style=for-the-badge" alt="SOLID">
-<img src="https://img.shields.io/badge/MVVM-2980B9?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
+<img src="https://img.shields.io/badge/DESIGN_PATTERNS-2980B9?style=for-the-badge" alt="Design Patterns">
 <img src="https://img.shields.io/badge/DATA_STRUCTURES-1E3C72?style=for-the-badge" alt="Data Structures">
+<img src="https://img.shields.io/badge/ALGORITHMS-2A5298?style=for-the-badge" alt="Algorithms">
+<img src="https://img.shields.io/badge/MVVM-2980B9?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 <br><br>
 
