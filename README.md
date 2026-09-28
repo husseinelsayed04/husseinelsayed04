@@ -31,14 +31,14 @@ My focus is on building well-structured applications and continuously improving 
 
 <div align="center">
 
-### 📱 Android Development
+### Android Development
 
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
 <img src="https://img.shields.io/badge/ANDROID_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
 
-### 🏗️ Software Engineering
+### Software Engineering
 
 <img src="https://img.shields.io/badge/OOP-1E3C72?style=for-the-badge" alt="OOP">
 <img src="https://img.shields.io/badge/SOLID-2A5298?style=for-the-badge" alt="SOLID">
@@ -48,7 +48,7 @@ My focus is on building well-structured applications and continuously improving 
 <img src="https://img.shields.io/badge/MVVM-2980B9?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
 <br><br>
 
-### 🗄️ Database & Backend
+### Database 
 
 <img src="https://img.shields.io/badge/ROOM_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
 <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -56,7 +56,7 @@ My focus is on building well-structured applications and continuously improving 
 
 <br><br>
 
-### 🛠️ Tools & Environments
+### Tools & Environments
 
 <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
