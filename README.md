@@ -4,24 +4,20 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/hussein-elsayed-24393842">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:hussainelsayed04@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
 
 <br><br>
 
-<i>Building modern mobile applications with a focus on clean code, user-friendly experiences, and continuous learning.</i>
+*Building modern Android applications with a focus on clean code, user-friendly experiences, UI/UX design, and continuous learning.*
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 
 </div>
 
-## 🧠 Software Engineering Identity
+## 🧠 Mobile Engineering Identity
 
 ```yaml
 role: Software Engineer / Mobile Developer
@@ -31,65 +27,52 @@ focus:
   - Problem Solving
   - Clean Code & Maintainability
 specialty:
-  - Kotlin & Java
+  - Kotlin & Java Ecosystems
+  - Flutter & Dart
   - OOP & SOLID Principles
-  - Data Structures & Algorithms
   - MVVM Architecture
-  - Room & SQLite
+  - Local Storage (Room/SQLite)
   - Firebase
   - Figma & UI/UX Design
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Modern Mobile Stack
 
 <div align="center">
 
-### 💻 Programming
+### Native Android
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,dart" />
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+<img src="https://img.shields.io/badge/ANDROID_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
 
-<br><br>
+<br>
 
-### 📱 Mobile Development
+### Cross-Platform & UI
 
-<img src="https://skillicons.dev/icons?i=androidstudio,android,flutter" />
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/Figma-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
-<br><br>
+<br>
 
-### 🎨 UI/UX & Design
+### Data & Architecture
 
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/ROOM_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB">
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/MVVM-2A5298?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
+<img src="https://img.shields.io/badge/SOLID-1E3C72?style=for-the-badge" alt="SOLID">
 
-<br><br>
+<br>
 
-### 🗄️ Database & Backend
+### Tools & Integration
 
-<img src="https://skillicons.dev/icons?i=firebase,sqlite" />
-
-<br><br>
-
-### 🏗️ Architecture & Development
-
-<img src="https://img.shields.io/badge/MVVM-Architecture-2A5298?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOLID-Principles-1E3C72?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-Programming-2980B9?style=for-the-badge" />
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-
-</div>
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,android,figma" />
-
-<br><br>
-
-**Android Development • Kotlin • UI/UX Design • Problem Solving**
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
 
 </div>
