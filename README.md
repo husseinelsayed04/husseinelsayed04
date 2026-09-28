@@ -39,14 +39,7 @@ My focus is on building well-structured applications and continuously improving 
 <img src="https://img.shields.io/badge/ANDROID_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
 <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 
-<br><br>
 
-### 🎨 UI/UX Design
-
-<img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-1E3C72?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
-
-<br><br>
 
 ### 🏗️ Software Engineering
 
@@ -57,6 +50,7 @@ My focus is on building well-structured applications and continuously improving 
 <img src="https://img.shields.io/badge/ALGORITHMS-2A5298?style=for-the-badge" alt="Algorithms">
 <img src="https://img.shields.io/badge/MVVM-2980B9?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
 <br><br>
+
 ### 🗄️ Database & Backend
 
 <img src="https://img.shields.io/badge/ROOM_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
@@ -65,10 +59,12 @@ My focus is on building well-structured applications and continuously improving 
 
 <br><br>
 
-### 🔧 Tools
+### 🛠️ Tools & Environments
 
+<img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 </div>
