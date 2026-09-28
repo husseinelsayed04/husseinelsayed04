@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/EMAIL-2A5298?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
 
 <br><br>
@@ -26,7 +26,7 @@ focus:
   - Native Android Development
   - Software Engineering Fundamentals
   - Problem Solving & Data Structures
-  - UI/UX Implementation
+  - UI/UX Design & Implementation
 
 core:
   - Kotlin & Java
@@ -37,11 +37,19 @@ core:
 
 android:
   - Android SDK
+  - Android Studio
   - XML Layouts
   - Activities & Fragments
   - Room / SQLite
   - Firebase
   - REST APIs
+
+ui_ux:
+  - Figma
+  - Wireframing
+  - Prototyping
+  - Design Systems
+  - Mobile UI Design
 
 currently_learning:
   - Advanced Android Development
@@ -73,8 +81,8 @@ currently_learning:
 ### 📱 Android Development
 
 <img src="https://img.shields.io/badge/ANDROID%20SDK-2A5298?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
-<img src="https://img.shields.io/badge/XML-2980B9?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
 <img src="https://img.shields.io/badge/ANDROID%20STUDIO-1E3C72?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<img src="https://img.shields.io/badge/XML-2980B9?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
 <img src="https://img.shields.io/badge/MVVM-2A5298?style=for-the-badge" alt="MVVM">
 
 <br><br>
@@ -82,21 +90,31 @@ currently_learning:
 <img src="https://img.shields.io/badge/ROOM-1E3C72?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
 <img src="https://img.shields.io/badge/SQLITE-2980B9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/FIREBASE-2A5298?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/REST%20API-1E3C72?style=for-the-badge" alt="REST API">
 
 <br><br>
 
-### 🔧 Tools & Technologies
+### 🎨 UI/UX Design
+
+<img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/UI%20DESIGN-2980B9?style=for-the-badge" alt="UI Design">
+<img src="https://img.shields.io/badge/UX%20DESIGN-1E3C72?style=for-the-badge" alt="UX Design">
+<img src="https://img.shields.io/badge/WIREFRAMING-2A5298?style=for-the-badge" alt="Wireframing">
+<img src="https://img.shields.io/badge/PROTOTYPING-2980B9?style=for-the-badge" alt="Prototyping">
+
+<br><br>
+
+### 🔧 Tools
 
 <img src="https://img.shields.io/badge/GIT-1E3C72?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GITHUB-2A5298?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/POSTMAN-2980B9?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/FIGMA-2A5298?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 </div>
 
 ## 🚀 What I'm Working On
 
-* Building Android applications with **Kotlin**
+* Building native Android applications with **Kotlin**
 * Strengthening my **Software Engineering** fundamentals
 * Practicing **Data Structures, Algorithms & Problem Solving**
 * Applying **OOP, SOLID Principles & Design Patterns**
@@ -105,26 +123,23 @@ currently_learning:
 
 ## 📂 Projects
 
-Some of my academic and personal projects include:
+Selected academic and personal projects:
 
 * 📚 **Library Management System**
-* 🏦 **Bank Management System**
-* 🏨 **Hotel Reservation Management System**
-* 🏋️ **Gym Management System**
-* 🏥 **Hospital Management System**
 * ⚽ **Football Store Android Application**
+* 🎨 **SCENTIFY – AI-Powered Perfume App**
 
-## 🎨 UI/UX
+## 🎨 UI/UX Design
 
 Alongside software development, I explore **UI/UX Design** and use Figma to design and prototype mobile applications.
 
 My design work focuses on:
 
-* User-friendly interfaces
+* User-friendly mobile interfaces
 * Mobile-first design
 * Design systems & consistency
 * Wireframing and prototyping
-* Turning UI designs into Android interfaces
+* Translating UI designs into Android interfaces
 
 <br>
 
@@ -132,7 +147,7 @@ My design work focuses on:
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b)
-[![Email](https://img.shields.io/badge/Email-2A5298?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-24393842b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/EMAIL-2A5298?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
 
 </div>
