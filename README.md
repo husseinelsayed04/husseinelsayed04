@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3c72,2a5298,2980b9,6dd5ed&height=250&section=header&text=Hussein%20ElSayed&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Mobile%20Developer&descSize=25&descAlignY=75" width="100%" alt="Hussein ElSayed Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3c72,2a5298,2980b9,6dd5ed&height=250&section=header&text=Hussein%20ElSayed&fontSize=70&fontColor=ffffff&desc=Software%20Engineering%20Student%20%7C%20Android%20Developer&descSize=25&descAlignY=75" width="100%" alt="Hussein ElSayed Banner">
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/hussein-elsayed-2914b4334)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainelsayed04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hussein-elsayed-2914b4334)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hussainelsayed04@gmail.com)
 
 <br><br>
 
-*Building modern Android and cross-platform applications. Passionate about clean code, user-friendly experiences, and continuous learning.*
+*Software Engineering student focused on Android development, clean code, problem solving, and building practical user-friendly applications.*
 
 <br>
 
@@ -17,42 +17,68 @@
 
 </div>
 
-## 🧠 Mobile Engineering Identity
+## 🧠 Software Engineering Identity
 
 ```yaml
-role: Software Engineer / Mobile Developer
+role: Software Engineering Student / Android Developer
+
 focus:
   - Native Android Development
-  - Cross-Platform Applications
+  - Software Engineering Fundamentals
+  - Problem Solving & Data Structures
   - UI/UX Implementation
-  - Clean Architecture & Maintainability
-specialty:
-  - Kotlin & Java Ecosystems
-  - Flutter & Dart 
-  - MVVM Design Pattern & SOLID Principles
-  - Local Storage (Room/SQLite) & BaaS (Firebase)
-  - Jetpack Compose (Currently Exploring)
+
+core:
+  - Kotlin & Java
+  - Object-Oriented Programming
+  - SOLID Principles
+  - Design Patterns
+  - Data Structures & Algorithms
+
+android:
+  - Android SDK
+  - XML Layouts
+  - Activities & Fragments
+  - Room / SQLite
+  - Firebase
+  - REST APIs
+
+currently_learning:
+  - Advanced Android Development
+  - Software Architecture
+  - Clean Architecture
 ```
-## 🛠️ Modern Mobile Stack
+
+## 🛠️ Technical Stack
 
 <div align="center">
 
-### Native Android
-<img src="https://img.shields.io/badge/ANDROID_SDK-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&label=KOTLIN&labelColor=333333" alt="Kotlin"> <img src="https://img.shields.io/badge/OOP_%26_LEGACY-007396?style=for-the-badge&logo=java&logoColor=white&label=JAVA&labelColor=333333" alt="Java"> <img src="https://img.shields.io/badge/UI_DESIGN-FF6600?style=for-the-badge&logo=xml&logoColor=white&label=XML&labelColor=333333" alt="XML">
+### 💻 Programming & Software Engineering
 
-<br>
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 
-### Cross-Platform & UI
-<img src="https://img.shields.io/badge/CROSS--PLATFORM-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=FLUTTER&labelColor=333333" alt="Flutter"> <img src="https://img.shields.io/badge/PROGRAMMING-0175C2?style=for-the-badge&logo=dart&logoColor=white&label=DART&labelColor=333333" alt="Dart"> <img src="https://img.shields.io/badge/DECLARATIVE_UI-4285F4?style=for-the-badge&logo=android&logoColor=white&label=JETPACK_COMPOSE&labelColor=333333" alt="Jetpack Compose">
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/SOLID-333333?style=for-the-badge" alt="SOLID">
+<img src="https://img.shields.io/badge/DESIGN%20PATTERNS-333333?style=for-the-badge" alt="Design Patterns">
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-333333?style=for-the-badge" alt="Data Structures">
+<img src="https://img.shields.io/badge/ALGORITHMS-333333?style=for-the-badge" alt="Algorithms">
 
-### Data & Architecture
-<img src="https://img.shields.io/badge/BACKEND_AS_A_SERVICE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&label=FIREBASE&labelColor=333333" alt="Firebase"> <img src="https://img.shields.io/badge/LOCAL_STORAGE-003B57?style=for-the-badge&logo=sqlite&logoColor=white&label=ROOM_DB&labelColor=333333" alt="Room DB"> <img src="https://img.shields.io/badge/MVVM_%26_CLEAN_CODE-4CAF50?style=for-the-badge&logo=android&logoColor=white&label=ARCHITECTURE&labelColor=333333" alt="Architecture">
+<br><br>
 
-<br>
+### 📱 Android Development
 
-### Tools & Integration
-<img src="https://img.shields.io/badge/VERSION_CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white&label=GIT&labelColor=333333" alt="Git"> <img src="https://img.shields.io/badge/API_TESTING-FF6C37?style=for-the-badge&logo=postman&logoColor=white&label=POSTMAN&labelColor=333333" alt="Postman"> <img src="https://img.shields.io/badge/UI%2FUX_DESIGN-F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=FIGMA&labelColor=333333" alt="Figma">
+<img src="https://img.shields.io/badge/ANDROID%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+<img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+<img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge" alt="MVVM">
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/ROOM-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room">
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/FI
